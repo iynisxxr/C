@@ -1,5 +1,9 @@
 # C语言学习
 
+> 视频：[bilibili C语言编程](https://www.bilibili.com/video/BV1cq4y1U7sg?p=26&spm_id_from=333.1007.top_right_bar_window_history.content.click)
+>
+> 书籍：C Primer Plus（第6版）中文版
+
 ## [day1](https://github.com/iynisxxr/C/tree/main/day1)
 
 1. 初识C语言
@@ -26,4 +30,3 @@
 ### [day3](https://github.com/iynisxxr/C/tree/main/day3)
 
 1. 指针
-2. 
