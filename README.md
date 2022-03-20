@@ -1,6 +1,6 @@
 # C语言学习
 
-> 视频：[bilibili C语言编程](https://www.bilibili.com/video/BV1cq4y1U7sg?p=26&spm_id_from=333.1007.top_right_bar_window_history.content.click)
+> 视频：[bilibili C语言编程](https://www.bilibili.com/video/BV1cq4y1U7sg)
 >
 > 书籍：C Primer Plus（第6版）中文版
 
