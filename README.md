@@ -4,7 +4,7 @@
 >
 > 书籍：C Primer Plus（第6版）中文版
 
-## [day1](https://github.com/iynisxxr/C/tree/main/day1)
+## [day01](https://github.com/iynisxxr/C/tree/main/day01)
 
 1. 初识C语言
 2. 认识数据类型
@@ -14,7 +14,7 @@
 
 
 
-## [day2](https://github.com/iynisxxr/C/tree/main/day2)
+## [day02](https://github.com/iynisxxr/C/tree/main/day02)
 
 1. 转义字符
 2. 选择语句
@@ -27,6 +27,6 @@
 
 
 
-### [day3](https://github.com/iynisxxr/C/tree/main/day3)
+### [day03](https://github.com/iynisxxr/C/tree/main/day03)
 
 1. 指针
